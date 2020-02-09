@@ -1,0 +1,21 @@
+
+.bb{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	font-size: 50px;
+	color: black;
+	padding-top: 30px; 
+}
+.fondo{
+	background: url("https://k50.kn3.net/taringa/6/E/C/4/5/2/milosk/550x977_EE8.jpg");
+	background-size: cover no-repeat; 	
+}
+
+.colortransparente {
+    background: rgba(60, 60, 60, 0.35);
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    display:flex;
+}
